@@ -1,0 +1,1 @@
+print("Voice Task Automator is running!")
