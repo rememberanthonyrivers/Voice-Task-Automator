@@ -53,3 +53,27 @@ So the complete system will eventually be:
          │
          ▼
    test.txt CREATED
+
+Now:
+
+You now have this:
+
+          YOU
+           │
+           │
+           ▼
+      🎤 MICROPHONE
+           │
+           ▼
+      SOUNDEVICE
+           │
+           │ audio
+           ▼
+     recording.wav
+           │
+           ▼
+        WHISPER
+           │
+           │ text
+           ▼
+   "Create a file called test"
