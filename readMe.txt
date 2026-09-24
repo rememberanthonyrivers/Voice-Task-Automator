@@ -77,3 +77,6 @@ You now have this:
            │ text
            ▼
    "Create a file called test"
+
+^^^^--- Which means Whisper is converting sound into Text. ---^^^^
+
