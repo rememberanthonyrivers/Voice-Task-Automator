@@ -80,3 +80,22 @@ You now have this:
 
 ^^^^--- Which means Whisper is converting sound into Text. ---^^^^
 
+Now were building:
+
+                  COMMAND
+                     │
+                     ▼
+             ┌───────────────┐
+             │ What did Tony │
+             │    request?   │
+             └───────┬───────┘
+                     │
+             ┌───────┴────────┐
+             ▼                ▼
+          "file"            "folder"
+             │                │
+             ▼                ▼
+       Create .txt        Create folder
+
+ ^^__^^ Command Rounter ^^__^^
+
